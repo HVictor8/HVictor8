@@ -117,17 +117,22 @@ Em andamento
 ### Cursos e Qualificações
 
 🏆 Front-End Developer — SENAI
+180 horas • Conclusão em Junho de 2026
 
 🏆 Assistente Administrativo (Gestão e Negócios) — SENAC
 200 horas • Conclusão em Abril de 2023
 
-🏆 Informática Básica
+🏆 Manutenção de Computadores - FAETERJ
+120 horas • Conclusão em 2018
 
-🏆 Excel
+🏆 Excel - FAETERJ
+120 horas • Conclusão em 2017
 
-🏆 Excel Avançado
+🏆 Excel Avançado - FAETERJ
+120 horas • Conclusão em 2017
 
-🏆 Manutenção de Computadores
+🏆 Informática Básica - FAETERJ
+120 horas • Conclusão em 2016
 
 ---
 
