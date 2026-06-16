@@ -13,9 +13,9 @@
 
 ## 🚀 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** pela **Descomplica UniAmérica+** e atualmente curso uma **Pós-Graduação em Full Stack Developer**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela **UniAmérica** e atualmente curso uma **Pós-Graduação em Full Stack Developer**.
 
-Minha trajetória profissional começou na área administrativa, onde desde 2021 atuo com gestão de pessoas, organização de dados, processos administrativos e administração pública.
+Minha trajetória profissional começou na área administrativa, servindo ao Exército Brasileiro, onde desde 2020 atuo com gestão de pessoas, organização de dados, processos administrativos e processos de administração pública.
 
 Com o tempo percebi que não queria apenas utilizar sistemas, mas também entender como eles funcionam e participar da construção deles.
 
@@ -29,7 +29,7 @@ Hoje estou focado em desenvolvimento web, transformando conhecimento em projetos
 <tr>
 <td>
 
-📌 2021
+📌 2020
 
 Início da atuação profissional na área administrativa.
 
@@ -93,7 +93,6 @@ Desenvolvendo projetos e aprofundando conhecimentos em desenvolvimento web.
 
 * Desenvolvimento Front-End com React
 * JavaScript moderno (ES6+)
-* APIs REST
 * Git e GitHub
 * Boas práticas de desenvolvimento
 * Evolução para Full Stack
@@ -105,13 +104,13 @@ Desenvolvendo projetos e aprofundando conhecimentos em desenvolvimento web.
 ### Graduação
 
 🎓 **Análise e Desenvolvimento de Sistemas**
-Descomplica UniAmérica+
+UniAmérica
 2025
 
 ### Pós-Graduação
 
 📚 **Full Stack Developer**
-Descomplica UniAmérica+
+Descomplica
 Em andamento
 
 ### Cursos e Qualificações
@@ -140,7 +139,7 @@ Em andamento
 
 ### Gestão Administrativa e Processos
 
-Desde 2021 atuo em funções administrativas envolvendo:
+Desde 2020 atuo em funções administrativas envolvendo:
 
 * Gestão de pessoal
 * Administração pública
@@ -148,7 +147,7 @@ Desde 2021 atuo em funções administrativas envolvendo:
 * Controle de processos
 * Organização e gerenciamento de dados
 
-Essa experiência me proporcionou uma visão prática sobre processos, organização e resolução de problemas — competências que também aplico diariamente nos meus estudos e projetos de desenvolvimento.
+Essa experiência me proporcionou uma visão prática sobre processos, organização e resolução de problemas — competências que também aplico diariamente nos meus estudos e projetos que desenvolvo.
 
 ---
 
@@ -185,9 +184,10 @@ Aqui você encontrará aplicações, estudos, desafios e experimentos desenvolvi
 ## 🌱 Aprendendo atualmente
 
 * React
+* Node.js
+* Next.js
 * Desenvolvimento Full Stack
 * Arquitetura de aplicações web
-* APIs REST
 * Banco de Dados
 * Python para automação e desafios
 
@@ -201,7 +201,7 @@ Aqui você encontrará aplicações, estudos, desafios e experimentos desenvolvi
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:victoribra18@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
