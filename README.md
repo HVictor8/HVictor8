@@ -104,14 +104,14 @@ Desenvolvendo projetos e aprofundando conhecimentos em desenvolvimento web.
 ### Graduação
 
 🎓 **Análise e Desenvolvimento de Sistemas**
-UniAmérica
-2025
+
+UniAmérica - 2025
 
 ### Pós-Graduação
 
 📚 **Full Stack Developer**
-Descomplica
-Em andamento
+
+Descomplica - Em andamento
 
 ### Cursos e Qualificações
 
