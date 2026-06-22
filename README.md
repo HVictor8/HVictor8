@@ -5,7 +5,7 @@
 
 ### 💻 Desenvolvedor Full Stack em formação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Análise+e+Desenvolvimento+de+Sistemas;Pós-graduação+em+Full+Stack+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Sempre+aprendendo+e+construindo+novos+projetos" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Análise+e+Desenvolvimento+de+Sistemas;Pós-graduação+em+Full+Stack+Developer;JavaScript+%7C+HTML+%7C+CSS;Sempre+aprendendo+e+construindo+novos+projetos" />
 
 </div>
 
